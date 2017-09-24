@@ -16,7 +16,6 @@ import android.util.Base64;
 
 import com.cloudipsp.android.Card;
 import com.cloudipsp.android.CardDisplay;
-import com.cloudipsp.android.CardInputView;
 import com.cloudipsp.android.Order;
 import com.github.devnied.emvnfccard.exception.CommunicationException;
 import com.github.devnied.emvnfccard.model.EmvCard;

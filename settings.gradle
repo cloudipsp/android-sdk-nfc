@@ -1,6 +1,5 @@
 include ':app'
-include ':nfc'
-include ':emvnfccard'
+include ':library'
 
 
 include ':cloudipsp-android'
