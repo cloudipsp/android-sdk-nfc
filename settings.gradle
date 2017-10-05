@@ -1,9 +1,2 @@
 include ':app'
 include ':library'
-
-
-include ':cloudipsp-android'
-project(':cloudipsp-android').projectDir = new File(
-        rootProject.projectDir,
-        '../Oplata.com/library'
-)
