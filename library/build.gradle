@@ -25,7 +25,7 @@ android {
 }
 
 dependencies {
-    compile 'com.cloudipsp:android:+'
+    compile 'com.cloudipsp:android:1.01'
     compile 'com.google.android.gms:play-services-gcm:9.8.0'
     compile 'com.github.devnied.emvnfccard:library:2.1.1'
 }
